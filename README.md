@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Omowunmimi
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning UI/UX
+- 👀 I’m interested in mobile development
+- 🌱 I’m a UI/UX Designer
 - 💞️ I’m looking to collaborate on any UI/UX projects 
-- 📫 How to reach me on gmail omowunmiomofolashade@gmail.com
+- 📫 How to reach me on email omowunmiomofolashade@gmail.com
 
 <!---
 Omowunmimi/Omowunmimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
