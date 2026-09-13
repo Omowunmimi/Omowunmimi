@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omowunmimi
+- 🌱 I’m a Product Designer & Illustrator
 - 👀 I’m interested in mobile development
-- 🌱 I’m a UI/UX Designer
-- 💞️ I’m looking to collaborate on any UI/UX projects 
+- 💞️ I’m looking to collaborate on any Product design projects 
 - 📫 How to reach me on email omowunmiomofolashade@gmail.com
 
 <!---
